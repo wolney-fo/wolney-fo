@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração computador">
 
-# 👋🏻 Oiê! Eu sou Wolney Oliveira :)
+# 👋🏻 Olá! Eu sou Wolney Oliveira
 
 <p align="left">
   👨🏻‍💻 Linguagens: <strong>Python, C, Java</strong>
