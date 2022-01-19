@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
- 📚 <strong>2/9 Ciência da computação - Universidade Tiradentes</strong>
+ 📚 <strong>3/9 Ciência da computação - Universidade Tiradentes</strong>
 </p>
 
 <p align="left">
