@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  📨 Você pode falar comigo por auqi: ⤵️
+  📨 Você pode falar comigo por aqui: ⤵️
 </p>
 
 <p align="left">
