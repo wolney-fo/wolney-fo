@@ -1,17 +1,18 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração computador">
+<img src="arrow_3.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Ilustração computador">
 
-# 👋🏻 Olá! Eu sou Wolney Oliveira
+# Olá! Eu sou Wolney Oliveira 👋
 
 <p align="left">
-  👨🏻‍💻 Linguagens: <strong>Python, C, Java</strong>
+ - Linguagens: <strong>Python, C, Java</strong>
 </p>
 
 <p align="left">
- 📚 <strong>3/9 Ciência da computação - Universidade Tiradentes</strong>
+ - <strong>3/9 Ciência da computação - <i>Universidade Tiradentes</i></strong>
 </p>
 
 <p align="left">
-  📨 Você pode falar comigo por aqui: ⤵️
+  <br>
+ Social: 👇
 </p>
 
 <p align="left">
