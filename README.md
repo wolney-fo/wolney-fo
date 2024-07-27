@@ -1,42 +1,11 @@
-<img align="right" height="500em" src="githubcard.png"/>
-<div align="left">
-<h1 align="left">Hi, I'm Wolney Oliveira</h1>
+# Wolney Oliveira
 
-A computer science student (7/9) at [@Unit_br](https://www.instagram.com/unit_br/) passionate about tech and focused on Back-end development.
+Back-end developer and computer science student (8/9) at [@Unit_br](https://www.instagram.com/unit_br/).
 
-See more 👉 [bio.link/wolneyfo](https://bio.link/wolneyfo)
+👨‍💻 Passionate about tech, I developed my first application during the 2020 pandemic. With the adoption of distance learning, I built a web application, learning JavaScript, to organize and centralize access to classes in a simple and fast way. Thus, it was enough to access it and be directed to the class that was happening at that moment.
 
-<h2>My focus for 2024/1:</h2>
-</div>
+🍎 Today, my interest lies in the direction of computer studies, back-end development, and artificial intelligence.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Typescript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Docker" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  <img align="center" alt="Rust" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-  <img align="center" alt="Javascript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Nodejs" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div> <br><br>
-
-─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-█░░░█░░░░░░░░░░▄▄░██░█
-█░▀▀█▀▀░▄▀░▄▀░░▀▀░▄▄░█
-█░░░▀░░░▄▄▄▄▄░░██░▀▀░█
-─▀▄▄▄▄▄▀─────▀▄▄▄▄▄▄▀
-
-<br><br>
-
-## Contact
-
-<div style="display: flex; gap: 4px">
-  <a href="https://www.linkedin.com/in/wolney-oliveira/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Wolney_Oliveira-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://instagram.com/wolneyfo" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-wolneyfo-05122A?style=flat&logo=instagram" alt="Instagram"/>
-  </a>
-
-  <a href="mailto:wolney.js@yahoo.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-My_Email-05122A?style=flat&logo=gmail" alt="E-mail"/>
-  </a>
-</div>
+[![Instagram Badge](https://img.shields.io/badge/-@wolneyfo-7c3aed?style=flat-square&labelColor=7c3aed&logo=instagram&logoColor=white&link=https://instagram.com/wolneyfo)](https://instagram.com/wolneyfo)
+[![Linkedin Badge](https://img.shields.io/badge/-Wolney%20Oliveira-7c3aed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wolney-oliveira/)](https://www.linkedin.com/in/wolney-oliveira/)
+[![Gmail Badge](https://img.shields.io/badge/-wolney.js@yahoo.com-7c3aed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wolney.js@yahoo.com)](mailto:wolney.js@yahoo.com)
