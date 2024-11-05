@@ -8,4 +8,4 @@ Back-end developer and computer science student (8/9) at [@Unit_br](https://www.
 
 [![Instagram Badge](https://img.shields.io/badge/-@wolneyfo-7c3aed?style=flat-square&labelColor=7c3aed&logo=instagram&logoColor=white&link=https://instagram.com/wolneyfo)](https://instagram.com/wolneyfo)
 [![Linkedin Badge](https://img.shields.io/badge/-Wolney%20Oliveira-7c3aed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wolney-oliveira/)](https://www.linkedin.com/in/wolney-oliveira/)
-[![Gmail Badge](https://img.shields.io/badge/-wolney.js@yahoo.com-7c3aed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wolney.js@yahoo.com)](mailto:wolney.js@yahoo.com)
+[![Gmail Badge](https://img.shields.io/badge/-hi@wolney.dev-7c3aed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@wolney.dev)](mailto:hi@wolney.dev)
