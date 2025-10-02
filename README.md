@@ -1,7 +1,5 @@
 # Wolney Oliveira
 
-Back-end developer and computer science student (9/9) at [@Unit_br](https://www.instagram.com/unit_br/).
-
 👨‍💻 Passionate about tech, I developed my first application during the 2020 pandemic. With the adoption of distance learning, I built a web application, learning JavaScript, to organize and centralize access to classes in a simple and fast way. Thus, it was enough to access it and be directed to the class that was happening at that moment.
 
 🍎 Today, my interest lies in the direction of computer studies and back-end development.
