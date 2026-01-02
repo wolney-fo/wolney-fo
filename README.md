@@ -2,7 +2,7 @@
 
 I'm [Wolney](https://wolney.dev/), a full-stack developer based in Brazil.
 
-I coded my first app when I was 17 years old during the 2020 pandemic.
+I coded [my first app](https://github.com/wolney-fo/remote-classes) when I was 17 years old during the 2020 pandemic.
 
 The best thing about computing is the freedom of getting ideas and making them real.
 
